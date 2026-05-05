@@ -1,0 +1,59 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="rw3L8CkoF5ik1kF43LDn" name="Página-1">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hoLhf--OyCOnGxikiEHZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" value="FORNECEDOR PRINCPAL" vertex="1">
+          <mxGeometry height="60" width="200" x="20" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="hoLhf--OyCOnGxikiEHZ-2" edge="1" parent="1" style="shape=link;html=1;rounded=0;width=-2;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;strokeColor=#FF6392;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="218" y="200" as="sourcePoint" />
+            <mxPoint x="609" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoLhf--OyCOnGxikiEHZ-3" parent="1" style="line;strokeWidth=2;direction=south;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" value="" vertex="1">
+          <mxGeometry height="80" width="40" x="260" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="hoLhf--OyCOnGxikiEHZ-4" parent="1" style="line;strokeWidth=2;direction=south;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" value="" vertex="1">
+          <mxGeometry height="80" width="10" x="320" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hoLhf--OyCOnGxikiEHZ-5" parent="1" style="line;strokeWidth=2;direction=south;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" value="" vertex="1">
+          <mxGeometry height="80" width="10" x="390" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="hoLhf--OyCOnGxikiEHZ-7" parent="1" style="line;strokeWidth=2;direction=south;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" value="" vertex="1">
+          <mxGeometry height="80" width="10" x="470" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hoLhf--OyCOnGxikiEHZ-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" value="F3" vertex="1">
+          <mxGeometry height="30" width="50" x="370" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="hoLhf--OyCOnGxikiEHZ-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" value="F1" vertex="1">
+          <mxGeometry height="30" width="50" x="255" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="hoLhf--OyCOnGxikiEHZ-15" parent="1" style="line;strokeWidth=2;direction=south;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" value="" vertex="1">
+          <mxGeometry height="80" width="170" x="470" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="hoLhf--OyCOnGxikiEHZ-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" value="F5" vertex="1">
+          <mxGeometry height="30" width="50" x="530" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="hoLhf--OyCOnGxikiEHZ-21" parent="1" style="line;strokeWidth=2;direction=south;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" value="" vertex="1">
+          <mxGeometry height="80" width="10" x="610" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hoLhf--OyCOnGxikiEHZ-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" value="F6" vertex="1">
+          <mxGeometry height="30" width="50" x="590" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hoLhf--OyCOnGxikiEHZ-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" value="F2" vertex="1">
+          <mxGeometry height="30" width="50" x="300" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hoLhf--OyCOnGxikiEHZ-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" value="F4" vertex="1">
+          <mxGeometry height="30" width="50" x="450" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hoLhf--OyCOnGxikiEHZ-25" parent="1" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" value="DIAGRAMA&amp;nbsp; A" vertex="1">
+          <mxGeometry height="40" width="230" x="270" y="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
